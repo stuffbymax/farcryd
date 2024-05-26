@@ -65,7 +65,16 @@ ShellExecuteEx Failed Error: This error often indicates a file not found or perm
 * Permissions: Ensure that all files in the Wine prefix are owned by your user account.
 * Dependencies: Install necessary libraries using winetricks to meet dependencies.
 
+# cheats
 
-
+- `[Backspace]` - godmode on/off
+- `[P]` - all weapons
+- `[O]` - 999 ammo for equipped weapon
+- `[F1]` - change view (first/third person)
+- `[F4]` - no clip
+- `[F2]` - next checkpoint
+- `[F9]` - save location of the player
+- `[F10]` - jump to saved location
+- `[F11]` - switch additional info on/off
 
 
