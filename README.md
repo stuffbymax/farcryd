@@ -67,14 +67,15 @@ ShellExecuteEx Failed Error: This error often indicates a file not found or perm
 
 # cheats
 
-- `[Backspace]` - godmode on/off
-- `[P]` - all weapons
-- `[O]` - 999 ammo for equipped weapon
-- `[F1]` - change view (first/third person)
-- `[F4]` - no clip
-- `[F2]` - next checkpoint
-- `[F9]` - save location of the player
-- `[F10]` - jump to saved location
-- `[F11]` - switch additional info on/off
-
+| Key         | Function                            |
+|-------------|-------------------------------------|
+| [Backspace] | godmode on/off                      |
+| [P]         | all weapons                         |
+| [O]         | 999 ammo for equipped weapon       |
+| [F1]        | change view (first/third person)   |
+| [F4]        | no clip                             |
+| [F2]        | next checkpoint                     |
+| [F9]        | save location of the player         |
+| [F10]       | jump to saved location              |
+| [F11]       | switch additional info on/off       |
 
